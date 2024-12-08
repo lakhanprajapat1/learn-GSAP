@@ -1,0 +1,39 @@
+@import url('https://gistcdn.githack.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Gilroy';
+    color: #fff;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+}
+#box2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(204, 141, 154);
+}
+
+#a{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(184, 161, 60);
+}
+#b{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(183, 12, 86);
+}
+#c{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(105, 184, 90);
+}
