@@ -1,1 +1,1 @@
-# Learn GSAP (GreenShock Animation Platform).
+# Learn GSAP (GreenSock Animation Platform).
