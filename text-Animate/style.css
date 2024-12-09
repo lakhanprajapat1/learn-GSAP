@@ -1,0 +1,25 @@
+@import url('https://gistcdn.githack.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Gilroy';
+    color: #fff;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    background: #111;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 17vh;
+    overflow: hidden;
+}
+h1 span{
+    display: inline-block;
+}
